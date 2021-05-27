@@ -1,0 +1,39 @@
+MV(1)                            User Commands                           MV(1)
+
+NAME
+       mv - move (rename) files
+
+SYNOPSIS
+       mv [OPTION]... [-T] SOURCE DEST
+       mv [OPTION]... SOURCE... DIRECTORY
+       mv [OPTION]... -t DIRECTORY SOURCE...
+
+DESCRIPTION
+       Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY.
+
+       Mandatory  arguments  to  long  options are mandatory for short options
+       too.
+     
+     
+   -f, --force
+              do not prompt before overwriting
+              
+              
+   -n, --no-clobber
+              do not overwrite an existing file
+              
+   -i, --interactive
+              prompt before overwrite
+              
+              
+   --version
+              output version information and exit
+          
+          
+    -v, --verbose
+              explain what is being done or rename
+
+              
+    AUTHOR
+       Written by Aaditya Raj Barnwal.....
+

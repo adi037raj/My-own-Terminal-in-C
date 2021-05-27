@@ -1,0 +1,18 @@
+Hello 
+I am Aaditya Raj Barnwal 2020 csm 1001
+
+how to run code-
+type 'make' in terminal
+your a.out will be ready and you can execute it then and there
+
+I have used system function to process all the commands except few commands mentioned in question no. 2 of assignment
+
+I have implemented ls command with 4 options
+
+same with grep, mv ,cp command
+
+I am Opening this file only when you are calling help in command
+
+Thank You..
+
+

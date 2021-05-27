@@ -1,0 +1,32 @@
+NAME
+       ls - list directory contents
+
+SYNOPSIS
+       ls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List  information  about  the FILEs (the current directory by default).
+       Sort entries alphabetically if none of -cftuvSUX nor --sort  is  speci‐
+       fied.
+
+       Mandatory  arguments  to  long  options are mandatory for short options
+       too.
+
+       -a, --all
+              do not ignore entries starting with .
+
+       
+       -m     fill width with a comma separated list of entries
+
+
+       -s, --size
+              print the allocated size of each file, in blocks
+
+
+      -F, --classify
+              append indicator (one of */=>@|) to entries
+       
+AUTHOR
+       Written by Aaditya Raj Barnwal.....
+
+
